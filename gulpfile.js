@@ -10,6 +10,7 @@ exports.rastr = tasks.rastr;
 exports.webp = tasks.webp;
 exports.ttf = tasks.ttf;
 exports.ttf2 = tasks.ttf2;
+exports.files = tasks.files;
 exports.bs_html = tasks.bs_html;
 exports.watch = tasks.watch;
 
