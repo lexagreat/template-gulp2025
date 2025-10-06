@@ -21,6 +21,7 @@ exports.default = gulp.parallel(
    exports.dev_js,
    exports.rastr,
    exports.webp,
+   exports.tasks,
    exports.html,
    exports.bs_html,
    exports.watch
